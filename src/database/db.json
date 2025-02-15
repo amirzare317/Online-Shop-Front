@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://www.akamai.com/site/im-demo/media-viewer/01.jpg?imwidth=5000",
+      "title": "product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nulla mollitia veritatis autem voluptatibus quis perspiciatis doloremque quod temporibus, ducimus explicabo similique ullam inventore omnis nihil sequi exercitationem debitis totam.",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "image": "https://www.w3schools.com/W3CSS/img_lights.jpg",
+      "title": "product 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nulla mollitia veritatis autem voluptatibus quis perspiciatis doloremque quod temporibus, ducimus explicabo similique ullam inventore omnis nihil sequi exercitationem debitis totam.",
+      "price": 80
+    },
+    {
+      "id": "3",
+      "image": "https://thumbs.dreamstime.com/b/falling-drop-rain-blue-earth-image-water-splash-crown-shape-water-splash-crown-shape-falling-drop-earth-140453719.jpg",
+      "title": "product 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nulla mollitia veritatis autem voluptatibus quis perspiciatis doloremque quod temporibus, ducimus explicabo similique ullam inventore omnis nihil sequi exercitationem debitis totam.",
+      "price": 76
+    },
+    {
+      "id": "4",
+      "image": "https://www.wearegecko.co.uk/media/50316/mountain-3.jpg",
+      "title": "product 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nulla mollitia veritatis autem voluptatibus quis perspiciatis doloremque quod temporibus, ducimus explicabo similique ullam inventore omnis nihil sequi exercitationem debitis totam.",
+      "price": 59
+    }
+  ]
+}
